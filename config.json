@@ -1,0 +1,8 @@
+{
+    "api": "http://bosstest.goglbo.com",
+    "version": "/v3",
+    "mainApiConfig": {
+      "prefix": "/boss/web",
+      "afterfix": ""
+    }
+  }

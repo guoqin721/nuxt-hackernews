@@ -1,0 +1,27 @@
+{
+  "name": "nuxt-c",
+  "version": "1.0.0",
+  "description": "My stupendous Nuxt.js project",
+  "author": "mashaoliang",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.4.1",
+    "ant-design-vue": "^1.1.10",
+    "axios": "^0.18.0",
+    "cookieparser": "^0.1.0",
+    "cross-env": "^5.2.0",
+    "lodash": "^4.17.11",
+    "nuxt": "^2.4.0"
+  },
+  "devDependencies": {
+    "less": "^3.9.0",
+    "less-loader": "^5.0.0",
+    "nodemon": "^1.18.9"
+  }
+}
